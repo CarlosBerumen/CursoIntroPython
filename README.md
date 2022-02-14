@@ -1,2 +1,2 @@
 # CursoIntroPython
-Evidencias 
+Evidencias de katas realizadas
