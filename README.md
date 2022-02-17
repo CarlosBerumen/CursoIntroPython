@@ -1,2 +1,2 @@
 # CursoIntroPython
-Evidencias de katas realizadas
+Evidencias de katas realizadas para LaunchX
